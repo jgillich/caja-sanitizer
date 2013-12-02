@@ -3,9 +3,10 @@
     "description" : "Caja's stand-alone HTML sanitizer for node",
     "version" : "0.1.0",
     "author" : "Jakob Gillich <jakob@gillich.me>",
+    "homepage": "https://github.com/jgillich/caja-sanitizer",
     "licenses" : [{
-        "type": "Apache",
-        "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+        "type": "Apache 2.0",
+        "url": "http://www.apache.org/licenses/LICENSE-2.0"
     }],
     "main" : "./index.js"
 }
