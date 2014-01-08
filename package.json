@@ -1,7 +1,7 @@
 {
     "name" : "caja-sanitizer",
     "description" : "Caja's stand-alone HTML sanitizer for node",
-    "version" : "0.1.1",
+    "version" : "0.1.2",
     "author" : "Jakob Gillich <jakob@gillich.me>",
     "homepage": "https://github.com/jgillich/caja-sanitizer",
     "licenses" : [{
